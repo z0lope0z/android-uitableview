@@ -17,7 +17,7 @@
     <color name="text_color_pressed">#ffffff</color>
 
     <!-- ITEM CENTER BUTTON COLORS - STATES - PRESSED AND DEFAULT -->
-    <color name="button_color_default">#ff0000</color>
-    <color name="button_color_pressed">#dd0000</color>
+    <color name="button_color_default">#47A607</color>
+    <color name="button_color_pressed">#2F7004</color>
 
 </resources>
